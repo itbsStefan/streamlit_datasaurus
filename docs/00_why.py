@@ -6,7 +6,7 @@ def display_page():
     
     c2, c1 = st.columns([4,6])
     image_placeholder = c1.empty()
-    c1.markdown("""[Wiki](http://wiki.itbs.selfhost.co/doku.php?id=cowork:starconnect:start#streamlitio)""")
+    c2.markdown("""[Wiki](http://wiki.itbs.selfhost.co/doku.php?id=cowork:starconnect:start#streamlitio)""")
 
     # Markdown for image
     image_markdown_format = "![Alt Text](https://github.com/sebastiandres/streamlit_datasaurus/blob/main/images/{}?raw=true)"
