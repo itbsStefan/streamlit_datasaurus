@@ -1,12 +1,7 @@
 import streamlit as st
 import streamlit_book as stb
-
-"""
-[ITBS Wiki](http://wiki.itbs.selfhost.co/doku.php?id=cowork:starconnect:public:notes)
-
-# Welcome to Streamlit Spielwiese.
-
-"""
+st.page_title("Startseite [why.py](https://github.com/itbsStefan/streamlit_datasaurus/blob/main/docs/00_why.py)")
+    
 # Set page configuration
 st.set_page_config(layout="wide", page_title="Datasaurus Rex",
                    page_icon="🦖",
