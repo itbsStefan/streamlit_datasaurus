@@ -1,7 +1,7 @@
 import streamlit as st
 
 def display_page():
-    st.title("Welcome!")
+    st.title("Startseite [why.py](https://github.com/itbsStefan/streamlit_datasaurus/blob/main/docs/00_why.py)")
     c2, c1 = st.columns([4,6])
     image_placeholder = c1.empty()
 
