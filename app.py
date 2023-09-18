@@ -1,5 +1,8 @@
 import streamlit as st
 import streamlit_book as stb
+
+st.markdown("""[Wiki](http://wiki.itbs.selfhost.co/doku.php?id=cowork:starconnect:start#streamlitio)""")
+
     
 # Set page configuration
 st.set_page_config(layout="wide", page_title="Datasaurus Rex",
